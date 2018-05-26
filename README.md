@@ -1,0 +1,3 @@
+# KutahyaEmlak
+
+test mesaa
