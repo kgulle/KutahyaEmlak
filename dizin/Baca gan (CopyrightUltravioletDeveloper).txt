@@ -1,0 +1,36 @@
+Ultraviolet Developer Release New Source Code Free!
+"Aplikasi CRUD OOP Dengan PDO Free Source Code !" 
+udah pada tau gak sih? sebelumnya mungkin masih banyak yang menggunakan MYSQL Extension, apa itu MYSQL Extension?
+yang kek gini nih msql_connect,mysql_fetch_array nah itu d sebutnya MYSQL Extension, yang katanya nanti tuh MYQSQL Extension mau di hapus Dan jika itu benar benar terjadi dan agan masih belum memperbarui kodingan agan(Move ON ). maka akan tewas lah semua website agan. Oleh karena itu mulai banyak para developer yang pindah menggunakan PDO ataupun mysqli. Namun jika agan masih bingung nah monggo ubek2 nih Source Code ane.
+*Emang Mysql Extension,Mysqli sama Mysql PDO bagus mana?
+sercing aja gugel deh selebihnya ane baca2 sih bagusan PDO kenapa?
+-Pertamax: PDO membantu mencegah SQL injection.
+-Keduax: PDO digunakan untuk mengakses beberapa database berbeda.
+-Ketigax: PDO sudah mendukung database transaction.
+-KeEmpax: PDO lebih cepat bila dibandingkan dengan menggunakan fungsi mysql_query.
+*Nah fiturnya gimana sih gan?
+-CRUD(Create,Read,Update,Delete PDO OOP System)
+-Login With PDO System
+-Session Login PDO System
+-Clean Code
+-GUI Bootstrap.
+
+www.ultraviolet-developer.com
+Jasa Pembuatan Website:
+-Toko Online
+-Web Travel
+-Web Aplikasi
+-Web Berita
+-Web TA 
+-Etc.
+Harga mulai dari 1,5jt free.com 1thn 
+Reseller Marketing Welcome..
+
+Donation me for buy some Food :D
+On
+verlyananda@gmail.com
+087722-836-330
+
+
+Regard
+Verlyananda CEO Ultraviolet Developer
